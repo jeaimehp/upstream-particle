@@ -6,11 +6,11 @@ Firmware created to collect sensor data based on the Particle Boron on the Parti
 
 # The Team
 
-|**Full Name**|**Title**|**Department**|**Email**|
+| Full Name | Title | Department | Email |
 |---|---|---|
-|Je’aime Powell|PI, Sensor Design & Adaptive AI Development|Texas Advanced Computing Center|jpowell@tacc.utexas.edu|
-|Kelly Pierce|Data Mining /Ecological Reasoning|Texas Advanced Computing Center|kpierce@tacc.utexas.edu|
-|Tim Keitt|Co-I, Professor|University of Texas at Austin Department of Integrative Biology|tkeitt@utexas.edu|
+| Je’aime Powell | PI, Sensor Design & Adaptive AI Development | Texas Advanced Computing Center | jpowell@tacc.utexas.edu |
+| Kelly Pierce | Data Mining /Ecological Reasoning| Texas Advanced Computing Center |kpierce@tacc.utexas.edu |
+| Tim Keitt | Co-I, Professor | University of Texas at Austin Department of Integrative Biology |tkeitt@utexas.edu |
 
 
 
