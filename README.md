@@ -1,8 +1,11 @@
 # µPSTREAM (Particle Revision)
+![upstream logo](images/upstream-logo.png)
 Firmware created to collect sensor data based on the Particle Boron on the Particle Platform
 
 # What is µPSTREAM?
 µPSTREAM (pronounced up-stream) is a broad term used to describe the use of a sensor connected to a device (e.g. microcontroller, RPi) with a network connection (e.g. wifi, cellular, satellite, LoRA) through which collected data is transmitted directly to a datastore for analysis and/or model integration. 
+
+![upstream framework](images/upstream-framework.png)
 
 # The Team
 
@@ -24,7 +27,7 @@ Firmware created to collect sensor data based on the Particle Boron on the Parti
 * µSense - https://github.com/jeaimehp/microsense 
 * µPSTREAMPi - https://github.com/jeaimehp/upstream-rpi 
 
-
+![upstream deployed](images/BFL-deployment.JPG)
 
 
 
