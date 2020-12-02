@@ -1,5 +1,6 @@
 # µPSTREAM (Particle Revision)
 ![upstream logo](images/upstream-logo.png)
+
 Firmware created to collect sensor data based on the Particle Boron on the Particle Platform
 
 # What is µPSTREAM?
@@ -27,7 +28,7 @@ Firmware created to collect sensor data based on the Particle Boron on the Parti
 * µSense - https://github.com/jeaimehp/microsense 
 * µPSTREAMPi - https://github.com/jeaimehp/upstream-rpi 
 
-![upstream deployed](images/BFL-deployment.JPG)
+![upstream deployed](images/BFL-deplyment.JPG)
 
 
 
