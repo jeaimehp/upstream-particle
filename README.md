@@ -17,11 +17,12 @@ Firmware created to collect sensor data based on the Particle Boron on the Parti
 | Tim Keitt | Co-I, Professor | University of Texas at Austin Department of Integrative Biology |tkeitt@utexas.edu |
 
 
-
 # Links
+* PT2050 Presentation Video - https://youtu.be/ZMPwp7ND7cE
 * Open Data Sets from Deployments (CHORDS) - http://pt2050dashboard-dev.tacc.utexas.edu 
 * µPSTREAM Sensor Integration with DataX - https://tinyurl.com/UPSTREAM-DataX 
 * Base System with Cellular Hardware Bill of Materials - https://tinyurl.com/UPSTREAM-Base-BOM 
+
 
 ## Code Repositories (GitHub)
 * µPSTREAM-Particle Base Station - https://github.com/jeaimehp/upstream-particle 
